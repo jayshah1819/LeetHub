@@ -152,4 +152,12 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayshah1819/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jayshah1819/LeetHub/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jayshah1819/LeetHub/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
