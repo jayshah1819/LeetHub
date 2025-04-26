@@ -131,6 +131,7 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jayshah1819/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayshah1819/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -147,4 +148,8 @@ npm run lint-test     Test all code is linted properly
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jayshah1819/LeetHub/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayshah1819/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
